@@ -8,9 +8,9 @@ Student with enthusiasm for all things IT, including web development, IOT, data 
 
 *   🌍  I'm based in Frankfurt, Germany
 *   🖥️  See my portfolio at [My GitHub repository](http://github.com/jandestiny)
-*   ✉️  You can contact me at [jan.echebiri@outlook.com](mailto://jan.echebiri@outlook.com)
+*   ✉️  You can contact me at [jan.echebiri@outlook.com](mailto:jan.echebiri@outlook.com)
 *   🚀  I'm currently working on [My personal website (soon available)](http://jan.echebiri.eu)
-*   🧠  I'm learning AI Basics
+*   🧠  I'm currently learning AI Basics
 *   🤝  I'm open to collaborating on almost any project involving IT, business or anything inbetween
 *   ⚡  Starting my master's degree in October '22!
 ### Skills
