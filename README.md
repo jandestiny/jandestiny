@@ -4,7 +4,7 @@ Hi 👋 My name is Jan
 B. Sc. Business Information Systems
 -----------------------------------
 
-Student with enthusiasm for all things IT, including web development, IOT, data analysis, strategy, business processses, games and more
+Student with enthusiasm for all things IT, including web development, IOT, data analysis, strategy, business processes, games and more
 
 *   🌍  I'm based in Frankfurt, Germany
 *   🖥️  See my portfolio at [My GitHub repository](http://github.com/jandestiny)
