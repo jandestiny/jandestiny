@@ -10,9 +10,8 @@ Student with enthusiasm for all things IT, including web development, IOT, data 
 *   🖥️  See my portfolio at [My GitHub repository](http://github.com/jandestiny)
 *   ✉️  You can contact me at [jan.echebiri@outlook.com](mailto:jan.echebiri@outlook.com)
 *   🚀  I'm currently working on [My personal website (soon available)](http://jan.echebiri.eu)
-*   🧠  I'm currently learning AI Basics
 *   🤝  I'm open to collaborating on almost any project involving IT, business or anything inbetween
-*   ⚡  Starting my master's degree in October '22!
+*   ⚡  Pursuing a Master of Sciene in Business Informatics
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
