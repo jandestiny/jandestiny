@@ -7,8 +7,7 @@ B. Sc. Business Information Systems
 Student with enthusiasm for all things IT and entrepreneurship, including web development, IOT, data analysis, strategy, business processes, games and more
 
 *   🌍  I'm based in Frankfurt, Germany
-*   ✉️  You can contact me at [jan.echebiri@outlook.com](mailto:jan.echebiri@outlook.com)
-*   🚀  Check out my linktree at (http://jan.echebiri.de)
+*   🚀  Check out my linktree at http://jan.echebiri.de
 *   🤝  I'm open to collaborating on almost any project involving IT, business or anything inbetween
 *   ⚡  Currently pursuing a Master of Sciene in Business Informatics
 *   ☕  You can always [buy me a coffee](https://www.buymeacoffee.com/jandestiny), it's much appreciated!
