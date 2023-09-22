@@ -11,6 +11,7 @@ Student with enthusiasm for all things IT and entrepreneurship, including web de
 *   🚀  Check out my linktree at (http://jan.echebiri.de)
 *   🤝  I'm open to collaborating on almost any project involving IT, business or anything inbetween
 *   ⚡  Currently pursuing a Master of Sciene in Business Informatics
+*   ☕  You can always [buy me a coffee](https://www.buymeacoffee.com/jandestiny), it's much appreciated!
 ### Skills
 <p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
