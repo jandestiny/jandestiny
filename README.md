@@ -35,6 +35,7 @@ Student with enthusiasm for all things IT and entrepreneurship, including web de
 <p align="left"> <a href="https://www.github.com/jandestiny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jan.echebiri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![An image of @jandestiny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jandestiny)](https://holopin.io/@jandestiny)
 
 <b>My GitHub Stats</b>
 
